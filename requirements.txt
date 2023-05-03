@@ -1,0 +1,10 @@
+discord
+asyncio
+flask
+boto3
+bs4
+requests
+howlongtobeatpy
+PSNAWP==1.2.0
+aws_requests_auth
+python-dotenv
