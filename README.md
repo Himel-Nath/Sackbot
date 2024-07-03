@@ -48,6 +48,5 @@ Run commands using / (slash commands) after the bot is added to your server
 
 ### Demo
 
-<a href="https://www.youtube.com/watch?v=Elgp9GkWQOE" target="_blank" >Click Here</a>
-
+[Click here](https://www.youtube.com/watch?v=Elgp9GkWQOE)
 
