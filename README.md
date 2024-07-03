@@ -45,3 +45,9 @@ Run commands using / (slash commands) after the bot is added to your server
 * Need to improve speed of queries
 * More commands
 * Frontend Dashboard
+
+### Demo
+
+<a href="https://www.youtube.com/watch?v=Elgp9GkWQOE" target="_blank" >Click Here</a>
+
+
